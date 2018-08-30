@@ -4,3 +4,13 @@ MIT Lincoln Laboratory
 244 Wood Street, Lexington
 MA, United States
 Affiliation ID: 60024592
+Lincoln Laboratory
+244 Wood Street, Lexington
+MA, United States
+Affiliation ID: 101468089
+
+AF-ID ( "MIT Lincoln Laboratory"   60024592 )  AND  ( PUBYEAR  =  2016 )  AND NOT  ( DOCTYPE ( er )  OR  DOCTYPE ( ed ) ) 
+yields 284 docs
+
+AF-ID ( "MIT Lincoln Laboratory"   60024592 )  AND  ( PUBYEAR  =  2017 )  AND NOT  ( DOCTYPE ( er )  OR  DOCTYPE ( ed ) ) 
+yields 261 docs
