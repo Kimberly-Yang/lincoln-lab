@@ -11,6 +11,8 @@ Affiliation ID: 101468089
 
 AF-ID ( "MIT Lincoln Laboratory"   60024592 )  AND  ( PUBYEAR  =  2016 )  AND NOT  ( DOCTYPE ( er )  OR  DOCTYPE ( ed ) ) 
 yields 284 docs
+281 imported into Lincoln-Lab-2016 group and 3 autodeduped into Lincoln-lab-Dupl-Library.enl
 
 AF-ID ( "MIT Lincoln Laboratory"   60024592 )  AND  ( PUBYEAR  =  2017 )  AND NOT  ( DOCTYPE ( er )  OR  DOCTYPE ( ed ) ) 
 yields 261 docs
+255 imported into Lincoln-Lab-2017 group and 6 autodeduped into Lincoln-lab-Dupl-Library.enl
